@@ -594,7 +594,10 @@ section {
 .clients {
   padding-top: 20px;
 }
-
+.swiper-slide{
+  width: 214px !impo;
+  margin-right: 120px;
+}
 .clients .swiper-slide img {
   opacity: 0.5;
   transition: 0.3s;
@@ -1011,7 +1014,7 @@ section {
 }
 
 .counts .image {
-  background: url("../img/Image\ for\ Promotional\ Materials_Regional\ Event.jpg") center center no-repeat;
+  background: url("../img/datathon1.jpeg") center center no-repeat;
   background-size: cover;
   min-height: 400px;
 }
