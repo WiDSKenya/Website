@@ -137,7 +137,7 @@ h6 {
 
 #header.header-scrolled,
 #header.header-inner-pages {
-  background: rgba(0, 0, 0, 0.8);
+  background: rgb(238 209 61);
 }
 
 #header .logo {
@@ -467,7 +467,7 @@ h6 {
 #hero .icon-box i {
   font-size: 32px;
   line-height: 1;
-  color: #01ad42;
+  color: #eed13d;
 }
 
 #hero .icon-box h3 {
@@ -760,9 +760,9 @@ section {
 }
 
 .cta .cta-btn:hover {
-  background: #01ad42;
-  border-color: #01ad42;
-  color: #151515;
+  background: #eed13d;
+  border-color: #eed13d;
+  color: #ffffff;
 }
 
 /*--------------------------------------------------------------
@@ -1014,7 +1014,7 @@ section {
 }
 
 .counts .image {
-  background: url("../img/datathon1.jpeg") center center no-repeat;
+  background: url("../img/wids7.jpg") center center no-repeat;
   background-size: cover;
   min-height: 400px;
 }
@@ -1163,9 +1163,15 @@ section {
 .team .member .member-img {
   position: relative;
   overflow: hidden;
-  height: 18rem ;
+  height: 18rem;
+  /*width: 16rem;*/
 }
-
+/*.img-fluid{
+  height: 16rem;
+  object-fit: cover;
+  width: 16rem;
+  object-position: top;
+}*/
 .team .member .social {
   position: absolute;
   left: 0;
