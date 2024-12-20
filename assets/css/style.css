@@ -1170,6 +1170,9 @@ section {
 
 .team .member .member-img .img-fluid {
   width: 23rem;
+    height: 18rem;
+    object-fit: cover;
+    object-position: top;
 }
 /*.img-fluid{
   height: 16rem;
